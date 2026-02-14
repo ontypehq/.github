@@ -42,5 +42,6 @@ OnType uses on-device AI to transcribe your voice in real time. Your audio never
 
 | Repo | Description |
 |------|-------------|
+| [**mlx-swift-asr**](https://github.com/ontypehq/mlx-swift-asr) | On-device speech recognition for Apple Silicon (4–6x real-time) |
 | [**ontype-releases**](https://github.com/ontypehq/ontype-releases) | Downloads, issue tracking, changelog |
 | [**libfst**](https://github.com/ontypehq/libfst) | Finite-state transducer library for text normalization |

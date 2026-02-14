@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getontype.app">
-    <img src="https://github.com/ontypehq/.github/raw/main/assets/hero-banner.png" alt="OnType — Speak, and it types." width="720" />
+    <img src="https://github.com/ontypehq/.github/raw/main/assets/hero-banner.webp" alt="OnType — Speak, and it types." width="720" />
   </a>
 </p>
 

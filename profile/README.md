@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://getontype.app"><strong>Website</strong></a> ·
-  <a href="https://github.com/ontypehq/OnType/releases"><strong>Download</strong></a>
+  <a href="https://github.com/ontypehq/ontype-releases/releases/latest"><strong>Download</strong></a>
 </p>
 
 ---
@@ -42,5 +42,5 @@ OnType uses on-device AI to transcribe your voice in real time. Your audio never
 
 | Repo | Description |
 |------|-------------|
-| [**OnType**](https://github.com/ontypehq/OnType) | The main macOS app |
+| [**ontype-releases**](https://github.com/ontypehq/ontype-releases) | Downloads, issue tracking, changelog |
 | [**libfst**](https://github.com/ontypehq/libfst) | Finite-state transducer library for text normalization |

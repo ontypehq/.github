@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/ontypehq/.github/raw/main/assets/hero-glow.png" alt="OnType" width="128" />
+  <a href="https://getontype.app">
+    <img src="https://github.com/ontypehq/.github/raw/main/assets/hero-banner.png" alt="OnType — Speak, and it types." width="720" />
+  </a>
 </p>
 
-<h3 align="center">Speak, and it types.</h3>
-
 <p align="center">
-  The fastest way to input text on macOS.<br>
+  <strong>The fastest way to input text on macOS.</strong><br>
   Hold a key, say what you mean, and watch it appear — anywhere, instantly.
 </p>
 
